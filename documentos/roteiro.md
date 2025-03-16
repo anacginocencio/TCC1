@@ -1,6 +1,6 @@
 ### Aulas
-- [O que é pesquisa e Papéis Orientador e Orientando](aula01.md)
-- [Objeto de Pesquisa, Revisão Sistemática de Literatura, Objetivo e Overleaf](aula02.md)
+- [AULA 01 - O que é pesquisa e Papéis Orientador e Orientando](aula01.md)
+- [AULA 02 - Objeto de Pesquisa, Revisão Sistemática de Literatura, Objetivo e Overleaf](aula02.md)
 
 ### Materiais
 - [Apostila Trabalho de Conclusão de Curso - BCC - UFJ](livro_completo.pdf)
