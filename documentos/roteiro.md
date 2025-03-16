@@ -5,6 +5,7 @@
 ### Materiais
 - [Apostila Trabalho de Conclusão de Curso - BCC - UFJ](livro_completo.pdf)
 - [Arquivo Latex TCC 1](template_tcc1_PPC_2022.zip)
+- [Exemplo Estrutura RSL](ESTRUTURA_RSL.docx)
 
 
 ### Documentos TCC 1
