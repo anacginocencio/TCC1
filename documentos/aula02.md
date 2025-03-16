@@ -6,6 +6,7 @@
 ### Materiais
 
 - [Anotações aula 02](aula02_objeto_rsl_objetivo.pdf)
+- [Exemplo Estrutura RSL](ESTRUTURA_RSL.docx)
 
 ### Desenvolvimento aula: 
 
